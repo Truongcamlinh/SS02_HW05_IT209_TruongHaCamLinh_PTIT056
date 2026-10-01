@@ -1,9 +1,5 @@
 # Bài 5 - Quản lý quyền sở hữu thư mục Web
 
-**Sinh viên:** Trương Hà Cẩm Linh  
-**Mã sinh viên:** PTIT056  
-**Môn học:** IT209
-
 ## Mục tiêu phân quyền
 
 Thư mục web `/var/www/ptit-web` được cấu hình với:
